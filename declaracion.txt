@@ -1,0 +1,27 @@
+____________________________________________________________________________________________________________________________________________________
+
+DECLARACIÓN:
+
+Todo el código se ha implementado por los estudiantes, salvo las funciones predefinidas por Matlab como puede ser el cálculo de los coeficientes LPC
+y el cambio de LPC a LSF.
+Por otra parte, en el archivo filtros.m se ha generado una función con 5 filtros FIR con los valores predefinidos por el estándard. 
+
+_____________________________________________________________________________________________________________________________________________________
+
+READ ME:
+
+		-------------------------------------------
+		HQSpeechCoder.fig: Guide de representación.
+		-------------------------------------------
+RUN: Ejecutar en la línea de comando: 
+>>HQSpeechCoder;
+Representar la señal de entrada antes de ser codificada dándole al botón CODER.
+Representar la señal de salida (decodificada) dándole al botón DECODER.
+Reproducir la señal de entrada antes de ser codificada dándole al botón Xin Audio.
+Reproducir la señal de salida (decodificada) dándole al botón de Xout Audio.
+
+		--------------------------------------------------
+			main.m: representación básica Matlab 
+		--------------------------------------------------
+
+Ejecutando main.m se reproduce todo automáticamente, imprimiendo por pantalla las señales de entrada y salida
