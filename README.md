@@ -1,5 +1,9 @@
 # 400 bps High-Quality Speech Coding Algorithm
 
+| ![Javier de la Rica](/Images/image-javier.jpg) | ![Logo](/Images/upc_etsetb.jpg) |
+| :---: | :---: |
+| Javier de la Rica | delaricajavier@gmail.com |
+
 ##RESUMEN
 
 En el presente artículo se describe un sistema de codificación de voz a baja velocidad de bit. Ésta permite una 
