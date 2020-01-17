@@ -1,6 +1,6 @@
 # 400 bps High-Quality Speech Coding Algorithm
 
-| ![Javier de la Rica](/Images/image-javier.jpg) | ![Logo](/Images/upc_etsetb.jpg) |
+| <img src="/Images/img.jpeg" width="180"> | ![Logo](/Images/upc_etsetb.jpg) |
 | :---: | :---: |
 | Javier de la Rica | delaricajavier@gmail.com |
 
